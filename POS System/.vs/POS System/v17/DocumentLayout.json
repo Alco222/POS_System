@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09FD320-10A3-4848-8A56-A6EEE3BE1C29}|..\\HandlerErrorsInDebuginMode\\HandlerErrors.csproj|d:\\user\\cours_20_c#_level_2\\pos projects\\handlererrorsindebuginmode\\loggererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\class globale\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:class globale\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\product\\frmlistproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:product\\frmlistproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\product\\frmlistproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:product\\frmlistproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\person\\frmlistperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:person\\frmlistperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3A10E-ED06-4C9B-8ABE-77489F350B6D}|..\\POSBusinessLayer\\POS_BusinessLayer.csproj|d:\\user\\cours_20_c#_level_2\\pos projects\\posbusinesslayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8111DE-BD59-4C8A-A5AE-BB0736BF2FDE}|..\\POSDataAccessLayer\\POS_DataAccessLayer.csproj|d:\\user\\cours_20_c#_level_2\\pos projects\\posdataaccesslayer\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\person\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:person\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8111DE-BD59-4C8A-A5AE-BB0736BF2FDE}|..\\POSDataAccessLayer\\POS_DataAccessLayer.csproj|d:\\user\\cours_20_c#_level_2\\pos projects\\posdataaccesslayer\\clsproductdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8111DE-BD59-4C8A-A5AE-BB0736BF2FDE}|..\\POSDataAccessLayer\\POS_DataAccessLayer.csproj|d:\\user\\cours_20_c#_level_2\\pos projects\\posdataaccesslayer\\clsinvoicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8111DE-BD59-4C8A-A5AE-BB0736BF2FDE}|..\\POSDataAccessLayer\\POS_DataAccessLayer.csproj|d:\\user\\cours_20_c#_level_2\\pos projects\\posdataaccesslayer\\clscustormerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\person\\frmlistperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:person\\frmlistperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\invoice\\frmlistinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:invoice\\frmlistinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\invoice\\frmlistinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:invoice\\frmlistinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\product\\frmaddupdateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:product\\frmaddupdateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3A10E-ED06-4C9B-8ABE-77489F350B6D}|..\\POSBusinessLayer\\POS_BusinessLayer.csproj|d:\\user\\cours_20_c#_level_2\\pos projects\\posbusinesslayer\\clsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\product\\frmaddupdateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:product\\frmaddupdateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoggerErrors.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\HandlerErrorsInDebuginMode\\LoggerErrors.cs",
+              "RelativeDocumentMoniker": "..\\HandlerErrorsInDebuginMode\\LoggerErrors.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\HandlerErrorsInDebuginMode\\LoggerErrors.cs",
+              "RelativeToolTip": "..\\HandlerErrorsInDebuginMode\\LoggerErrors.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:54:46.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Class Globale\\clsUtil.cs",
+              "RelativeDocumentMoniker": "Class Globale\\clsUtil.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Class Globale\\clsUtil.cs",
+              "RelativeToolTip": "Class Globale\\clsUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:54:36.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmListProduct.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Product\\FrmListProduct.cs",
+              "RelativeDocumentMoniker": "Product\\FrmListProduct.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Product\\FrmListProduct.cs",
+              "RelativeToolTip": "Product\\FrmListProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:40:57.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmListProduct.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Product\\FrmListProduct.cs",
+              "RelativeDocumentMoniker": "Product\\FrmListProduct.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Product\\FrmListProduct.cs [Design]",
+              "RelativeToolTip": "Product\\FrmListProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:40:55.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSBusinessLayer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\POSBusinessLayer\\clsPerson.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSBusinessLayer\\clsPerson.cs",
+              "RelativeToolTip": "..\\POSBusinessLayer\\clsPerson.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwIcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:04:54.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAddUpdatePerson.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Person\\FrmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "Person\\FrmAddUpdatePerson.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Person\\FrmAddUpdatePerson.cs",
+              "RelativeToolTip": "Person\\FrmAddUpdatePerson.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAgwEMBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T18:40:27.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmAddUpdateProduct.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Product\\FrmAddUpdateProduct.cs",
+              "RelativeDocumentMoniker": "Product\\FrmAddUpdateProduct.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Product\\FrmAddUpdateProduct.cs",
+              "RelativeToolTip": "Product\\FrmAddUpdateProduct.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAuwI4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:40:39.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmAddUpdateProduct.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Product\\FrmAddUpdateProduct.cs",
+              "RelativeDocumentMoniker": "Product\\FrmAddUpdateProduct.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Product\\FrmAddUpdateProduct.cs [Design]",
+              "RelativeToolTip": "Product\\FrmAddUpdateProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:40:36.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSDataAccessLayer\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "..\\POSDataAccessLayer\\clsPersonData.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSDataAccessLayer\\clsPersonData.cs",
+              "RelativeToolTip": "..\\POSDataAccessLayer\\clsPersonData.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwIkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T20:47:26.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsProductData.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSDataAccessLayer\\clsProductData.cs",
+              "RelativeDocumentMoniker": "..\\POSDataAccessLayer\\clsProductData.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSDataAccessLayer\\clsProductData.cs",
+              "RelativeToolTip": "..\\POSDataAccessLayer\\clsProductData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wN4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T20:47:28.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmListPerson.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Person\\FrmListPerson.cs",
+              "RelativeDocumentMoniker": "Person\\FrmListPerson.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Person\\FrmListPerson.cs",
+              "RelativeToolTip": "Person\\FrmListPerson.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAA5wOAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:59:04.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsInvoiceData.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSDataAccessLayer\\clsInvoiceData.cs",
+              "RelativeDocumentMoniker": "..\\POSDataAccessLayer\\clsInvoiceData.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSDataAccessLayer\\clsInvoiceData.cs",
+              "RelativeToolTip": "..\\POSDataAccessLayer\\clsInvoiceData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwJAAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:43:47.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsCustormerData.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSDataAccessLayer\\clsCustormerData.cs",
+              "RelativeDocumentMoniker": "..\\POSDataAccessLayer\\clsCustormerData.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSDataAccessLayer\\clsCustormerData.cs",
+              "RelativeToolTip": "..\\POSDataAccessLayer\\clsCustormerData.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwHQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:10:18.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmListInvoice.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Invoice\\FrmListInvoice.cs",
+              "RelativeDocumentMoniker": "Invoice\\FrmListInvoice.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Invoice\\FrmListInvoice.cs",
+              "RelativeToolTip": "Invoice\\FrmListInvoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:55:31.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmListPerson.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Person\\FrmListPerson.cs",
+              "RelativeDocumentMoniker": "Person\\FrmListPerson.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Person\\FrmListPerson.cs [Design]",
+              "RelativeToolTip": "Person\\FrmListPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:04:26.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsProduct.cs",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSBusinessLayer\\clsProduct.cs",
+              "RelativeDocumentMoniker": "..\\POSBusinessLayer\\clsProduct.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSBusinessLayer\\clsProduct.cs",
+              "RelativeToolTip": "..\\POSBusinessLayer\\clsProduct.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwIAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:43:26.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmListInvoice.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Invoice\\FrmListInvoice.cs",
+              "RelativeDocumentMoniker": "Invoice\\FrmListInvoice.cs",
+              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Invoice\\FrmListInvoice.cs [Design]",
+              "RelativeToolTip": "Invoice\\FrmListInvoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:55:28.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

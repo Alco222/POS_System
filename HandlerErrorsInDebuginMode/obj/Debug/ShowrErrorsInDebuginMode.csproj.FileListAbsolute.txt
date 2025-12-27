@@ -1,0 +1,6 @@
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\HandlerErrorsInDebuginMode\bin\Debug\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\HandlerErrorsInDebuginMode\bin\Debug\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\HandlerErrorsInDebuginMode\obj\Debug\ShowrErrorsInDebuginMode.csproj.AssemblyReference.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\HandlerErrorsInDebuginMode\obj\Debug\ShowrErrorsInDebuginMode.csproj.CoreCompileInputs.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrorsInDebuginMode.pdb

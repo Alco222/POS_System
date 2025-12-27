@@ -1,0 +1,44 @@
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\bin\Debug\POSBusinessLayer.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\bin\Debug\POSBusinessLayer.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\bin\Debug\POSDataAccessLayer.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\bin\Debug\POSDataAccessLayer.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\obj\Debug\POS_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\obj\Debug\POS_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\obj\Debug\POS_Busi.0B523F4D.Up2Date
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\obj\Debug\POSBusinessLayer.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\obj\Debug\POSBusinessLayer.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\bin\Debug\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\bin\Debug\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POSBusinessLayer\bin\Debug\POSBusinessLayer.dll
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POSBusinessLayer\bin\Debug\POSBusinessLayer.pdb
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POSBusinessLayer\bin\Debug\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POSBusinessLayer\bin\Debug\POSDataAccessLayer.dll
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POSBusinessLayer\bin\Debug\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POSBusinessLayer\bin\Debug\POSDataAccessLayer.pdb
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POSBusinessLayer\obj\Debug\POS_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POSBusinessLayer\obj\Debug\POS_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POSBusinessLayer\obj\Debug\POS_Busi.0B523F4D.Up2Date
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POSBusinessLayer\obj\Debug\POSBusinessLayer.dll
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POSBusinessLayer\obj\Debug\POSBusinessLayer.pdb
+D:\User\Cours_20_C#_Level_2\POSBusinessLayer\bin\Debug\POSBusinessLayer.dll
+D:\User\Cours_20_C#_Level_2\POSBusinessLayer\bin\Debug\POSBusinessLayer.pdb
+D:\User\Cours_20_C#_Level_2\POSBusinessLayer\bin\Debug\HandlerErrorsInDebuginMode.dll
+D:\User\Cours_20_C#_Level_2\POSBusinessLayer\bin\Debug\POSDataAccessLayer.dll
+D:\User\Cours_20_C#_Level_2\POSBusinessLayer\bin\Debug\HandlerErrorsInDebuginMode.pdb
+D:\User\Cours_20_C#_Level_2\POSBusinessLayer\bin\Debug\POSDataAccessLayer.pdb
+D:\User\Cours_20_C#_Level_2\POSBusinessLayer\obj\Debug\POS_BusinessLayer.csproj.AssemblyReference.cache
+D:\User\Cours_20_C#_Level_2\POSBusinessLayer\obj\Debug\POS_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\User\Cours_20_C#_Level_2\POSBusinessLayer\obj\Debug\POS_Busi.0B523F4D.Up2Date
+D:\User\Cours_20_C#_Level_2\POSBusinessLayer\obj\Debug\POSBusinessLayer.dll
+D:\User\Cours_20_C#_Level_2\POSBusinessLayer\obj\Debug\POSBusinessLayer.pdb
+D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\bin\Debug\POSBusinessLayer.dll
+D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\bin\Debug\POSBusinessLayer.pdb
+D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\bin\Debug\HandlerErrorsInDebuginMode.dll
+D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\bin\Debug\POSDataAccessLayer.dll
+D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\bin\Debug\HandlerErrorsInDebuginMode.pdb
+D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\bin\Debug\POSDataAccessLayer.pdb
+D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\obj\Debug\POS_BusinessLayer.csproj.AssemblyReference.cache
+D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\obj\Debug\POS_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\obj\Debug\POS_Busi.0B523F4D.Up2Date
+D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\obj\Debug\POSBusinessLayer.dll
+D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\obj\Debug\POSBusinessLayer.pdb

@@ -1,0 +1,131 @@
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Debug\POS System.exe.config
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Debug\POS System.exe
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Debug\POS System.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS System.csproj.AssemblyReference.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS System.csproj.GenerateResource.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS System.csproj.CoreCompileInputs.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS System.exe
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS System.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Debug\POSBusinessLayer.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Debug\POSDataAccessLayer.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Debug\POSBusinessLayer.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Debug\POSDataAccessLayer.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.FrmAddUpdateCustomers.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS System.csproj.Up2Date
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.FrmAddUpdatePerson.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.Person.Controle.ctrPersonDetails.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.Person.FrmShowDetailsPerson.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.Person.FrmListPerson.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.Person.Controle.ctrCardPersonWithFilter.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.FrmMain.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.Customer.Controls.ctrCustomerInfo.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.Customer.FrmCustomerInfo.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS System.exe.config
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Debug\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Debug\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.Customer.FrmListCustomers.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.Product.FrmAddUpdateProduct.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Debug\POS_System.Product.FrmListProduct.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\bin\Debug\POS System.exe.config
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\bin\Debug\POS System.exe
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\bin\Debug\POS System.pdb
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\bin\Debug\Guna.UI2.dll
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\bin\Debug\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\bin\Debug\POSBusinessLayer.dll
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\bin\Debug\POSDataAccessLayer.dll
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\bin\Debug\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\bin\Debug\POSBusinessLayer.pdb
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\bin\Debug\POSDataAccessLayer.pdb
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.csproj.AssemblyReference.cache
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Customer.Controls.ctrCustomerInfo.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.FrmAddUpdateCustomers.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Customer.FrmCustomerInfo.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Customer.FrmListCustomers.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.FrmMain.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Person.Controle.ctrCardPersonWithFilter.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Person.Controle.ctrPersonDetails.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.FrmAddUpdatePerson.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Person.FrmListPerson.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Person.FrmShowDetailsPerson.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Product.FrmAddUpdateProduct.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Product.FrmListProduct.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.csproj.GenerateResource.cache
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.csproj.CoreCompileInputs.cache
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.csproj.Up2Date
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.exe
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.pdb
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.exe.config
+D:\User\Cours_20_C#_Level_2\POS System\bin\Debug\POS System.exe.config
+D:\User\Cours_20_C#_Level_2\POS System\bin\Debug\POS System.exe
+D:\User\Cours_20_C#_Level_2\POS System\bin\Debug\POS System.pdb
+D:\User\Cours_20_C#_Level_2\POS System\bin\Debug\Guna.UI2.dll
+D:\User\Cours_20_C#_Level_2\POS System\bin\Debug\HandlerErrorsInDebuginMode.dll
+D:\User\Cours_20_C#_Level_2\POS System\bin\Debug\POSBusinessLayer.dll
+D:\User\Cours_20_C#_Level_2\POS System\bin\Debug\POSDataAccessLayer.dll
+D:\User\Cours_20_C#_Level_2\POS System\bin\Debug\HandlerErrorsInDebuginMode.pdb
+D:\User\Cours_20_C#_Level_2\POS System\bin\Debug\POSBusinessLayer.pdb
+D:\User\Cours_20_C#_Level_2\POS System\bin\Debug\POSDataAccessLayer.pdb
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.csproj.AssemblyReference.cache
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.exe.config
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Customer.Controls.ctrCustomerInfo.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.FrmAddUpdateCustomers.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Customer.FrmCustomerInfo.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Customer.FrmListCustomers.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.FrmMain.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Person.Controle.ctrCardPersonWithFilter.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Person.Controle.ctrPersonDetails.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.FrmAddUpdatePerson.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Person.FrmListPerson.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Person.FrmShowDetailsPerson.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Product.clsProductInfo.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Product.FrmAddUpdateProduct.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Product.FrmListProduct.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Product.FrmShowProduct.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Properties.Resources.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.csproj.GenerateResource.cache
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.csproj.CoreCompileInputs.cache
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.csproj.Up2Date
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.exe
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS System.pdb
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Invoice.FrmAddUpdateInvoice.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Invoice.FrmListInvoice.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.InvoiceItem.FrmListInvoiceItems.resources
+D:\User\Cours_20_C#_Level_2\POS System\obj\Debug\POS_System.Users.FrmAddUpdateUser.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\bin\Debug\POS System.exe.config
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\bin\Debug\POS System.exe
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\bin\Debug\POS System.pdb
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\bin\Debug\Guna.UI2.dll
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\bin\Debug\HandlerErrorsInDebuginMode.dll
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\bin\Debug\POSBusinessLayer.dll
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\bin\Debug\POSDataAccessLayer.dll
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\bin\Debug\HandlerErrorsInDebuginMode.pdb
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\bin\Debug\POSBusinessLayer.pdb
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\bin\Debug\POSDataAccessLayer.pdb
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS System.csproj.AssemblyReference.cache
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Customer.Controls.ctrCustomerInfo.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.FrmAddUpdateCustomers.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Customer.FrmCustomerInfo.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Customer.FrmListCustomers.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.FrmMain.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.InvoiceItem.FrmListInvoiceItems.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Invoice.FrmAddUpdateInvoice.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Invoice.FrmListInvoice.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Person.Controle.ctrCardPersonWithFilter.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Person.Controle.ctrPersonDetails.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.FrmAddUpdatePerson.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Person.FrmListPerson.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Person.FrmShowDetailsPerson.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Product.clsProductInfo.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Product.FrmAddUpdateProduct.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Product.FrmListProduct.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Product.FrmShowProduct.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Properties.Resources.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Users.FrmAddUpdateUser.resources
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS System.csproj.GenerateResource.cache
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS System.csproj.CoreCompileInputs.cache
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS System.csproj.Up2Date
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS System.exe
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS System.pdb
+D:\User\Cours_20_C#_Level_2\POS Projects\POS System\obj\Debug\POS_System.Users.FrmListMangerUsers.resources

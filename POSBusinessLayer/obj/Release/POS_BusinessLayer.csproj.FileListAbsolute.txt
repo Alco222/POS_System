@@ -1,0 +1,11 @@
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\bin\Release\POSBusinessLayer.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\bin\Release\POSBusinessLayer.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\bin\Release\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\bin\Release\POSDataAccessLayer.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\bin\Release\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\bin\Release\POSDataAccessLayer.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\obj\Release\POS_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\obj\Release\POS_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\obj\Release\POS_Busi.0B523F4D.Up2Date
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\obj\Release\POSBusinessLayer.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSBusinessLayer\obj\Release\POSBusinessLayer.pdb

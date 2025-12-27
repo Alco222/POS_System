@@ -1,0 +1,24 @@
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\HandlerErrorsInDebuginMode\bin\Debug\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\HandlerErrorsInDebuginMode\bin\Debug\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrors.csproj.AssemblyReference.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrors.csproj.CoreCompileInputs.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\HandlerErrorsInDebuginMode\bin\Debug\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\HandlerErrorsInDebuginMode\bin\Debug\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrors.csproj.AssemblyReference.cache
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrors.csproj.CoreCompileInputs.cache
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours_20_C#_Level_2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrorsInDebuginMode.pdb
+D:\User\Cours_20_C#_Level_2\HandlerErrorsInDebuginMode\bin\Debug\HandlerErrorsInDebuginMode.dll
+D:\User\Cours_20_C#_Level_2\HandlerErrorsInDebuginMode\bin\Debug\HandlerErrorsInDebuginMode.pdb
+D:\User\Cours_20_C#_Level_2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrors.csproj.AssemblyReference.cache
+D:\User\Cours_20_C#_Level_2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrors.csproj.CoreCompileInputs.cache
+D:\User\Cours_20_C#_Level_2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrorsInDebuginMode.dll
+D:\User\Cours_20_C#_Level_2\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrorsInDebuginMode.pdb
+D:\User\Cours_20_C#_Level_2\POS Projects\HandlerErrorsInDebuginMode\bin\Debug\HandlerErrorsInDebuginMode.dll
+D:\User\Cours_20_C#_Level_2\POS Projects\HandlerErrorsInDebuginMode\bin\Debug\HandlerErrorsInDebuginMode.pdb
+D:\User\Cours_20_C#_Level_2\POS Projects\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrors.csproj.AssemblyReference.cache
+D:\User\Cours_20_C#_Level_2\POS Projects\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrors.csproj.CoreCompileInputs.cache
+D:\User\Cours_20_C#_Level_2\POS Projects\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrorsInDebuginMode.dll
+D:\User\Cours_20_C#_Level_2\POS Projects\HandlerErrorsInDebuginMode\obj\Debug\HandlerErrorsInDebuginMode.pdb

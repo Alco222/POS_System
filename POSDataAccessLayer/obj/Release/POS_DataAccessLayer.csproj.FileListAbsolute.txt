@@ -1,0 +1,9 @@
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSDataAccessLayer\bin\Release\POSDataAccessLayer.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSDataAccessLayer\bin\Release\POSDataAccessLayer.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSDataAccessLayer\bin\Release\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSDataAccessLayer\bin\Release\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSDataAccessLayer\obj\Release\POS_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSDataAccessLayer\obj\Release\POS_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSDataAccessLayer\obj\Release\POS_Data.0118389E.Up2Date
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSDataAccessLayer\obj\Release\POSDataAccessLayer.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POSDataAccessLayer\obj\Release\POSDataAccessLayer.pdb

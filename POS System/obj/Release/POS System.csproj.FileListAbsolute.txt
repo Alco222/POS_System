@@ -1,0 +1,27 @@
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Release\POS System.exe.config
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Release\POS System.exe
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Release\POS System.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Release\Guna.UI2.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Release\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Release\POSBusinessLayer.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Release\POSDataAccessLayer.dll
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Release\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Release\POSBusinessLayer.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\bin\Release\POSDataAccessLayer.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS System.csproj.AssemblyReference.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS_System.Customer.Controls.ctrCustomerInfo.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS_System.FrmAddUpdateCustomers.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS_System.Customer.FrmCustomerInfo.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS_System.FrmMain.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS_System.Person.Controle.ctrCardPersonWithFilter.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS_System.Person.Controle.ctrPersonDetails.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS_System.FrmAddUpdatePerson.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS_System.Person.FrmListPerson.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS_System.Person.FrmShowDetailsPerson.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS_System.Properties.Resources.resources
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS System.csproj.GenerateResource.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS System.csproj.CoreCompileInputs.cache
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS System.csproj.Up2Date
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS System.exe
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS System.pdb
+C:\Users\Alco\source\repos\Cours 20 C# Level 2\POS System\obj\Release\POS System.exe.config

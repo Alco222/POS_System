@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{001E697D-E755-42EF-B599-81B373FB8D5B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>POS_System</RootNamespace>
+    <AssemblyName>POS System</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.7\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class Globale\clsFormat.cs" />
+    <Compile Include="Class Globale\clsUtil.cs" />
+    <Compile Include="Class Globale\clsValidatoin.cs" />
+    <Compile Include="Class Globale\LoggedInUser.cs" />
+    <Compile Include="Customer\Controls\ctrCustomerInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Customer\Controls\ctrCustomerInfo.Designer.cs">
+      <DependentUpon>ctrCustomerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\FrmAddUpdateCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\FrmAddUpdateCustomers.Designer.cs">
+      <DependentUpon>FrmAddUpdateCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\FrmCustomerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\FrmCustomerInfo.Designer.cs">
+      <DependentUpon>FrmCustomerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\FrmListCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\FrmListCustomers.Designer.cs">
+      <DependentUpon>FrmListCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InvoiceItem\FrmListInvoiceItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InvoiceItem\FrmListInvoiceItems.Designer.cs">
+      <DependentUpon>FrmListInvoiceItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice\FrmAddUpdateInvoice .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice\FrmAddUpdateInvoice .Designer.cs">
+      <DependentUpon>FrmAddUpdateInvoice .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice\FrmListInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice\FrmListInvoice.Designer.cs">
+      <DependentUpon>FrmListInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person\Controle\ctrCardPersonWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Person\Controle\ctrCardPersonWithFilter.Designer.cs">
+      <DependentUpon>ctrCardPersonWithFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person\Controle\ctrPersonDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Person\Controle\ctrPersonDetails.Designer.cs">
+      <DependentUpon>ctrPersonDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person\FrmAddUpdatePerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Person\FrmAddUpdatePerson.Designer.cs">
+      <DependentUpon>FrmAddUpdatePerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person\FrmListPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Person\FrmListPerson.Designer.cs">
+      <DependentUpon>FrmListPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person\FrmShowDetailsPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Person\FrmShowDetailsPerson.Designer.cs">
+      <DependentUpon>FrmShowDetailsPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product\Controls\clsProductInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Product\Controls\clsProductInfo.Designer.cs">
+      <DependentUpon>clsProductInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product\FrmAddUpdateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\FrmAddUpdateProduct.Designer.cs">
+      <DependentUpon>FrmAddUpdateProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product\FrmListProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\FrmListProduct.Designer.cs">
+      <DependentUpon>FrmListProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product\FrmShowProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\FrmShowProduct.Designer.cs">
+      <DependentUpon>FrmShowProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Users\FrmAddUpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\FrmAddUpdateUser.Designer.cs">
+      <DependentUpon>FrmAddUpdateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\FrmListMangerUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\FrmListMangerUsers.Designer.cs">
+      <DependentUpon>FrmListMangerUsers.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Customer\Controls\ctrCustomerInfo.resx">
+      <DependentUpon>ctrCustomerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\FrmAddUpdateCustomers.resx">
+      <DependentUpon>FrmAddUpdateCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\FrmCustomerInfo.resx">
+      <DependentUpon>FrmCustomerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\FrmListCustomers.resx">
+      <DependentUpon>FrmListCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InvoiceItem\FrmListInvoiceItems.resx">
+      <DependentUpon>FrmListInvoiceItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice\FrmAddUpdateInvoice .resx">
+      <DependentUpon>FrmAddUpdateInvoice .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice\FrmListInvoice.resx">
+      <DependentUpon>FrmListInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Person\Controle\ctrCardPersonWithFilter.resx">
+      <DependentUpon>ctrCardPersonWithFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Person\Controle\ctrPersonDetails.resx">
+      <DependentUpon>ctrPersonDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Person\FrmAddUpdatePerson.resx">
+      <DependentUpon>FrmAddUpdatePerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Person\FrmListPerson.resx">
+      <DependentUpon>FrmListPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Person\FrmShowDetailsPerson.resx">
+      <DependentUpon>FrmShowDetailsPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\Controls\clsProductInfo.resx">
+      <DependentUpon>clsProductInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\FrmAddUpdateProduct.resx">
+      <DependentUpon>FrmAddUpdateProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\FrmListProduct.resx">
+      <DependentUpon>FrmListProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\FrmShowProduct.resx">
+      <DependentUpon>FrmShowProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Users\FrmAddUpdateUser.resx">
+      <DependentUpon>FrmAddUpdateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\FrmListMangerUsers.resx">
+      <DependentUpon>FrmListMangerUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HandlerErrorsInDebuginMode\HandlerErrors.csproj">
+      <Project>{a09fd320-10a3-4848-8a56-a6eee3be1c29}</Project>
+      <Name>HandlerErrors</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\POSBusinessLayer\POS_BusinessLayer.csproj">
+      <Project>{f5e3a10e-ed06-4c9b-8abe-77489f350b6d}</Project>
+      <Name>POS_BusinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Man 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Woman 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Email 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-address-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telephone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person_boy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\personal_card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person_girl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add New User 72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Person 72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_right %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coolbackgrounds-particles-ether.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tax.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\field_number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_accounts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_accounts %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_config.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notes 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-arrival.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add New User 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\activate_profile.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
