@@ -165,7 +165,7 @@ namespace POS_System.Users
 
             if (FilterCotumn == "PersonID"|| FilterCotumn == "UserID" || FilterCotumn == "RoleID")
             {
-                _dtAllUser.DefaultView.RowFilter = string.Format($"[{FilterCotumn}] = {TextValue}");
+               _dtAllUser.DefaultView.RowFilter = string.Format($"[{FilterCotumn}] = {TextValue}");
                 lblRecords.Text = dgvAllUsers.Rows.Count.ToString();
             }
             else

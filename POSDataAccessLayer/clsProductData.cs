@@ -100,7 +100,7 @@ namespace POSDataAccessLayer
 
                     command.Parameters.AddWithValue("@Price", Price);
                     command.Parameters.AddWithValue("@QuantityInStock", QuantityInStock);
-                    command.Parameters.AddWithValue("@QuantityInStock", TaxPercent);
+                    command.Parameters.AddWithValue("@TaxPercent", TaxPercent);
 
                     if (!string.IsNullOrWhiteSpace(ImageProduct))
                         command.Parameters.AddWithValue("@ImageProduct", ImageProduct);
@@ -178,17 +178,7 @@ namespace POSDataAccessLayer
 
             using (SqlConnection connection = new SqlConnection(DataAccessSetings.ConnectionString))
             {
-                string Query = @"SELECT ProductID,ProductName,Descriptions,Price,QuantityInStock,
-                                       CASE 
-                                            WHEN QuantityInStock = 0 THEN 'Out of Stock'
-                                            WHEN QuantityInStock <= 10 THEN 'Low Stock'
-                                            ELSE 'In Stock'
-                                       END AS StockStatus,
-                                       TaxPercent,
-                                       (Price *0.2) as PriceWithTax
-                                 FROM Products 
-                                 ORDER BY ProductName";
-                using (SqlCommand command = new SqlCommand(Query, connection))
+                using (SqlCommand command = new SqlCommand("Products.SP_GetAllProductName_POS", connection))
                 {
                     command.CommandType = CommandType.StoredProcedure;
 

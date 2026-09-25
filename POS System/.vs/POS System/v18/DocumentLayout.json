@@ -1,47 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\",
+  "WorkspaceRootPath": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|d:\\user\\cours_20_c#_level_2\\pos projects\\pos system\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E3A10E-ED06-4C9B-8ABE-77489F350B6D}|..\\POSBusinessLayer\\POS_BusinessLayer.csproj|d:\\user\\cours_20_c#_level_2\\pos projects\\posbusinesslayer\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA8111DE-BD59-4C8A-A5AE-BB0736BF2FDE}|..\\POSDataAccessLayer\\POS_DataAccessLayer.csproj|d:\\user\\cours_20_c#_level_2\\pos projects\\posdataaccesslayer\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA8111DE-BD59-4C8A-A5AE-BB0736BF2FDE}|..\\POSDataAccessLayer\\POS_DataAccessLayer.csproj|d:\\user\\cours_20_c#_level_2\\pos projects\\posdataaccesslayer\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\users\\frmlistmangerusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:users\\frmlistmangerusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\person\\frmlistperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|c:\\users\\alco\\onedrive\\documents\\github\\pos_system\\pos_system\\pos system\\person\\frmlistperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:person\\frmlistperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5E3A10E-ED06-4C9B-8ABE-77489F350B6D}|..\\POSBusinessLayer\\POS_BusinessLayer.csproj|c:\\users\\alco\\onedrive\\documents\\github\\pos_system\\pos_system\\posbusinesslayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\users\\frmlistmangerusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:users\\frmlistmangerusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EA8111DE-BD59-4C8A-A5AE-BB0736BF2FDE}|..\\POSDataAccessLayer\\POS_DataAccessLayer.csproj|c:\\users\\alco\\onedrive\\documents\\github\\pos_system\\pos_system\\posdataaccesslayer\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\person\\frmlistperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|c:\\users\\alco\\onedrive\\documents\\github\\pos_system\\pos_system\\pos system\\person\\frmlistperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:person\\frmlistperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|c:\\users\\alco\\onedrive\\documents\\github\\pos_system\\pos_system\\pos system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8111DE-BD59-4C8A-A5AE-BB0736BF2FDE}|..\\POSDataAccessLayer\\POS_DataAccessLayer.csproj|c:\\users\\alco\\onedrive\\documents\\github\\pos_system\\pos_system\\posdataaccesslayer\\dataaccesssetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\invoice\\frmlistinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:invoice\\frmlistinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\invoice\\frmlistinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:invoice\\frmlistinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3A10E-ED06-4C9B-8ABE-77489F350B6D}|..\\POSBusinessLayer\\POS_BusinessLayer.csproj|c:\\users\\alco\\onedrive\\documents\\github\\pos_system\\pos_system\\posbusinesslayer\\clsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\invoice\\frmaddupdateinvoice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:invoice\\frmaddupdateinvoice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8111DE-BD59-4C8A-A5AE-BB0736BF2FDE}|..\\POSDataAccessLayer\\POS_DataAccessLayer.csproj|c:\\users\\alco\\onedrive\\documents\\github\\pos_system\\pos_system\\posdataaccesslayer\\clsproductdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001E697D-E755-42EF-B599-81B373FB8D5B}|POS System.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,21 +53,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmListMangerUsers.cs",
-              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Users\\FrmListMangerUsers.cs",
-              "RelativeDocumentMoniker": "Users\\FrmListMangerUsers.cs",
-              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Users\\FrmListMangerUsers.cs",
-              "RelativeToolTip": "Users\\FrmListMangerUsers.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAwwFoAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T22:47:32.294Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -80,6 +69,14 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
@@ -88,124 +85,153 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmAddUpdateUser.cs",
-              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Users\\FrmAddUpdateUser.cs",
-              "RelativeDocumentMoniker": "Users\\FrmAddUpdateUser.cs",
-              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Users\\FrmAddUpdateUser.cs",
-              "RelativeToolTip": "Users\\FrmAddUpdateUser.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAuwEQAAAAAAAAAAAAAAA==",
+              "Title": "FrmListPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\Person\\FrmListPerson.cs",
+              "RelativeDocumentMoniker": "Person\\FrmListPerson.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\Person\\FrmListPerson.cs",
+              "RelativeToolTip": "Person\\FrmListPerson.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwCwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T23:26:33.651Z",
+              "WhenOpened": "2026-08-10T20:43:40.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "clsUsers.cs",
-              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSBusinessLayer\\clsUsers.cs",
-              "RelativeDocumentMoniker": "..\\POSBusinessLayer\\clsUsers.cs",
-              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSBusinessLayer\\clsUsers.cs",
-              "RelativeToolTip": "..\\POSBusinessLayer\\clsUsers.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAcwFYAAAAIAAAAAAAAAA==",
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POSBusinessLayer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\POSBusinessLayer\\clsPerson.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POSBusinessLayer\\clsPerson.cs",
+              "RelativeToolTip": "..\\POSBusinessLayer\\clsPerson.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAwJAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:41:09.213Z"
+              "WhenOpened": "2026-08-10T20:28:54.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "clsUserData.cs",
-              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSDataAccessLayer\\clsUserData.cs",
-              "RelativeDocumentMoniker": "..\\POSDataAccessLayer\\clsUserData.cs",
-              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSDataAccessLayer\\clsUserData.cs",
-              "RelativeToolTip": "..\\POSDataAccessLayer\\clsUserData.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAmwGEAAAAIAAAAAAAAAA==",
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POSDataAccessLayer\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "..\\POSDataAccessLayer\\clsPersonData.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POSDataAccessLayer\\clsPersonData.cs",
+              "RelativeToolTip": "..\\POSDataAccessLayer\\clsPersonData.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAA3wK0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:42:12.396Z"
+              "WhenOpened": "2026-06-22T17:33:16.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "clsPersonData.cs",
-              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSDataAccessLayer\\clsPersonData.cs",
-              "RelativeDocumentMoniker": "..\\POSDataAccessLayer\\clsPersonData.cs",
-              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POSDataAccessLayer\\clsPersonData.cs",
-              "RelativeToolTip": "..\\POSDataAccessLayer\\clsPersonData.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wJsAAABIAAAAAAAAAA==",
+              "Title": "FrmListPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\Person\\FrmListPerson.cs",
+              "RelativeDocumentMoniker": "Person\\FrmListPerson.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\Person\\FrmListPerson.cs [Design]",
+              "RelativeToolTip": "Person\\FrmListPerson.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T14:41:19.776Z"
+              "WhenOpened": "2026-08-10T20:43:09.603Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FrmAddUpdateUser.cs [Design]",
-              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Users\\FrmAddUpdateUser.cs",
-              "RelativeDocumentMoniker": "Users\\FrmAddUpdateUser.cs",
-              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Users\\FrmAddUpdateUser.cs [Design]",
-              "RelativeToolTip": "Users\\FrmAddUpdateUser.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T23:26:31.159Z"
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-10T19:09:38.648Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmMain.cs [Design]",
-              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\FrmMain.cs",
-              "RelativeDocumentMoniker": "FrmMain.cs",
-              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\FrmMain.cs [Design]",
-              "RelativeToolTip": "FrmMain.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "DataAccessSetings.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POSDataAccessLayer\\DataAccessSetings.cs",
+              "RelativeDocumentMoniker": "..\\POSDataAccessLayer\\DataAccessSetings.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POSDataAccessLayer\\DataAccessSetings.cs",
+              "RelativeToolTip": "..\\POSDataAccessLayer\\DataAccessSetings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T23:25:23.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmListPerson.cs",
-              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Person\\FrmListPerson.cs",
-              "RelativeDocumentMoniker": "Person\\FrmListPerson.cs",
-              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Person\\FrmListPerson.cs",
-              "RelativeToolTip": "Person\\FrmListPerson.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAwD8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T22:49:20.636Z"
+              "WhenOpened": "2026-08-10T19:08:36.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "FrmMain.cs",
-              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\FrmMain.cs",
-              "RelativeDocumentMoniker": "FrmMain.cs",
-              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\FrmMain.cs",
-              "RelativeToolTip": "FrmMain.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowDUAAAAIAAAAAAAAAA==",
+              "Title": "FrmListInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\Invoice\\FrmListInvoice.cs",
+              "RelativeDocumentMoniker": "Invoice\\FrmListInvoice.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\Invoice\\FrmListInvoice.cs",
+              "RelativeToolTip": "Invoice\\FrmListInvoice.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwMoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T23:25:25.599Z"
+              "WhenOpened": "2026-06-22T17:20:51.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmListMangerUsers.cs [Design]",
-              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Users\\FrmListMangerUsers.cs",
-              "RelativeDocumentMoniker": "Users\\FrmListMangerUsers.cs",
-              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Users\\FrmListMangerUsers.cs [Design]",
-              "RelativeToolTip": "Users\\FrmListMangerUsers.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "FrmListInvoice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\Invoice\\FrmListInvoice.cs",
+              "RelativeDocumentMoniker": "Invoice\\FrmListInvoice.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\Invoice\\FrmListInvoice.cs [Design]",
+              "RelativeToolTip": "Invoice\\FrmListInvoice.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T22:46:11.899Z"
+              "WhenOpened": "2026-06-22T17:20:45.822Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "FrmListPerson.cs [Design]",
-              "DocumentMoniker": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Person\\FrmListPerson.cs",
-              "RelativeDocumentMoniker": "Person\\FrmListPerson.cs",
-              "ToolTip": "D:\\User\\Cours_20_C#_Level_2\\POS Projects\\POS System\\Person\\FrmListPerson.cs [Design]",
-              "RelativeToolTip": "Person\\FrmListPerson.cs [Design]",
+              "Title": "clsProductData.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POSDataAccessLayer\\clsProductData.cs",
+              "RelativeDocumentMoniker": "..\\POSDataAccessLayer\\clsProductData.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POSDataAccessLayer\\clsProductData.cs",
+              "RelativeToolTip": "..\\POSDataAccessLayer\\clsProductData.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowLYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T22:04:26.839Z"
+              "WhenOpened": "2026-06-22T17:29:53.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POSBusinessLayer\\clsProduct.cs",
+              "RelativeDocumentMoniker": "..\\POSBusinessLayer\\clsProduct.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POSBusinessLayer\\clsProduct.cs",
+              "RelativeToolTip": "..\\POSBusinessLayer\\clsProduct.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAswHoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:45:38.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAddUpdateInvoice .cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\Invoice\\FrmAddUpdateInvoice .cs",
+              "RelativeDocumentMoniker": "Invoice\\FrmAddUpdateInvoice .cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\Invoice\\FrmAddUpdateInvoice .cs [Design]",
+              "RelativeToolTip": "Invoice\\FrmAddUpdateInvoice .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:19:59.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\POS_System\\POS_System\\POS System\\FrmMain.cs [Design]",
+              "RelativeToolTip": "FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:15:51.873Z"
             }
           ]
         }

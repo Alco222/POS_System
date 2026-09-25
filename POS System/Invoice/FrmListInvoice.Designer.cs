@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.lblRecords = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.label1 = new System.Windows.Forms.Label();
@@ -56,9 +56,10 @@
             // 
             this.lblRecords.BackColor = System.Drawing.Color.Transparent;
             this.lblRecords.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRecords.Location = new System.Drawing.Point(104, 365);
+            this.lblRecords.Location = new System.Drawing.Point(156, 562);
+            this.lblRecords.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.lblRecords.Name = "lblRecords";
-            this.lblRecords.Size = new System.Drawing.Size(19, 20);
+            this.lblRecords.Size = new System.Drawing.Size(27, 31);
             this.lblRecords.TabIndex = 27;
             this.lblRecords.Text = "??";
             // 
@@ -66,9 +67,10 @@
             // 
             this.guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel2.Location = new System.Drawing.Point(18, 365);
+            this.guna2HtmlLabel2.Location = new System.Drawing.Point(27, 562);
+            this.guna2HtmlLabel2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            this.guna2HtmlLabel2.Size = new System.Drawing.Size(76, 20);
+            this.guna2HtmlLabel2.Size = new System.Drawing.Size(119, 31);
             this.guna2HtmlLabel2.TabIndex = 26;
             this.guna2HtmlLabel2.Text = "#Records :";
             // 
@@ -77,9 +79,10 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Red;
-            this.label1.Location = new System.Drawing.Point(368, 9);
+            this.label1.Location = new System.Drawing.Point(552, 14);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(340, 31);
+            this.label1.Size = new System.Drawing.Size(505, 47);
             this.label1.TabIndex = 25;
             this.label1.Text = "List - Mangement Invoice";
             // 
@@ -87,9 +90,10 @@
             // 
             this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel1.Location = new System.Drawing.Point(14, 90);
+            this.guna2HtmlLabel1.Location = new System.Drawing.Point(21, 138);
+            this.guna2HtmlLabel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(54, 22);
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(78, 31);
             this.guna2HtmlLabel1.TabIndex = 24;
             this.guna2HtmlLabel1.Text = "Filtre :";
             // 
@@ -104,12 +108,12 @@
             this.txtfilter.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtfilter.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtfilter.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txtfilter.Location = new System.Drawing.Point(236, 83);
-            this.txtfilter.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtfilter.Location = new System.Drawing.Point(354, 128);
+            this.txtfilter.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
             this.txtfilter.Name = "txtfilter";
             this.txtfilter.PlaceholderText = "";
             this.txtfilter.SelectedText = "";
-            this.txtfilter.Size = new System.Drawing.Size(169, 36);
+            this.txtfilter.Size = new System.Drawing.Size(254, 55);
             this.txtfilter.TabIndex = 23;
             this.txtfilter.TextChanged += new System.EventHandler(this.txtfilter_TextChanged);
             this.txtfilter.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtfilter_KeyPress);
@@ -129,9 +133,10 @@
             "None",
             "Invoice ID",
             "Customer Name"});
-            this.cbFilter.Location = new System.Drawing.Point(77, 83);
+            this.cbFilter.Location = new System.Drawing.Point(116, 128);
+            this.cbFilter.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.cbFilter.Name = "cbFilter";
-            this.cbFilter.Size = new System.Drawing.Size(129, 36);
+            this.cbFilter.Size = new System.Drawing.Size(192, 36);
             this.cbFilter.TabIndex = 22;
             this.cbFilter.SelectedIndexChanged += new System.EventHandler(this.cbFilter_SelectedIndexChanged);
             // 
@@ -146,9 +151,10 @@
             this.btnClose.FillColor = System.Drawing.Color.Red;
             this.btnClose.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnClose.ForeColor = System.Drawing.Color.White;
-            this.btnClose.Location = new System.Drawing.Point(992, 361);
+            this.btnClose.Location = new System.Drawing.Point(1488, 555);
+            this.btnClose.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnClose.Name = "btnClose";
-            this.btnClose.Size = new System.Drawing.Size(84, 30);
+            this.btnClose.Size = new System.Drawing.Size(126, 46);
             this.btnClose.TabIndex = 21;
             this.btnClose.Text = "Close";
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
@@ -159,37 +165,38 @@
             this.dgvAllInvoice.AllowUserToDeleteRows = false;
             this.dgvAllInvoice.AllowUserToResizeColumns = false;
             this.dgvAllInvoice.AllowUserToResizeRows = false;
-            dataGridViewCellStyle4.BackColor = System.Drawing.Color.White;
-            this.dgvAllInvoice.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
+            this.dgvAllInvoice.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.dgvAllInvoice.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.None;
             this.dgvAllInvoice.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.dgvAllInvoice.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvAllInvoice.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
-            this.dgvAllInvoice.ColumnHeadersHeight = 35;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvAllInvoice.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            this.dgvAllInvoice.ColumnHeadersHeight = 45;
             this.dgvAllInvoice.ContextMenuStrip = this.cmsInvoice;
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle6.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
-            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
-            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvAllInvoice.DefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvAllInvoice.DefaultCellStyle = dataGridViewCellStyle3;
             this.dgvAllInvoice.GridColor = System.Drawing.Color.LightGray;
-            this.dgvAllInvoice.Location = new System.Drawing.Point(11, 125);
+            this.dgvAllInvoice.Location = new System.Drawing.Point(16, 192);
+            this.dgvAllInvoice.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.dgvAllInvoice.Name = "dgvAllInvoice";
             this.dgvAllInvoice.ReadOnly = true;
             this.dgvAllInvoice.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             this.dgvAllInvoice.RowHeadersVisible = false;
             this.dgvAllInvoice.RowHeadersWidth = 62;
-            this.dgvAllInvoice.Size = new System.Drawing.Size(1067, 201);
+            this.dgvAllInvoice.Size = new System.Drawing.Size(1600, 309);
             this.dgvAllInvoice.TabIndex = 19;
             this.dgvAllInvoice.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White;
             this.dgvAllInvoice.ThemeStyle.AlternatingRowsStyle.Font = null;
@@ -203,7 +210,7 @@
             this.dgvAllInvoice.ThemeStyle.HeaderStyle.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dgvAllInvoice.ThemeStyle.HeaderStyle.ForeColor = System.Drawing.Color.White;
             this.dgvAllInvoice.ThemeStyle.HeaderStyle.HeaightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
-            this.dgvAllInvoice.ThemeStyle.HeaderStyle.Height = 35;
+            this.dgvAllInvoice.ThemeStyle.HeaderStyle.Height = 45;
             this.dgvAllInvoice.ThemeStyle.ReadOnly = true;
             this.dgvAllInvoice.ThemeStyle.RowsStyle.BackColor = System.Drawing.Color.White;
             this.dgvAllInvoice.ThemeStyle.RowsStyle.BorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
@@ -231,33 +238,33 @@
             this.cmsInvoice.RenderStyle.SelectionForeColor = System.Drawing.Color.White;
             this.cmsInvoice.RenderStyle.SeparatorColor = System.Drawing.Color.Gainsboro;
             this.cmsInvoice.RenderStyle.TextRenderingHint = System.Drawing.Text.TextRenderingHint.SystemDefault;
-            this.cmsInvoice.Size = new System.Drawing.Size(177, 92);
+            this.cmsInvoice.Size = new System.Drawing.Size(239, 132);
             // 
             // ShowToolStripMenuItem
             // 
             this.ShowToolStripMenuItem.Name = "ShowToolStripMenuItem";
-            this.ShowToolStripMenuItem.Size = new System.Drawing.Size(176, 22);
+            this.ShowToolStripMenuItem.Size = new System.Drawing.Size(238, 32);
             this.ShowToolStripMenuItem.Text = "Show Invoice Items";
             this.ShowToolStripMenuItem.Click += new System.EventHandler(this.ShowToolStripMenuItem_Click);
             // 
             // editToolStripMenuItem1
             // 
             this.editToolStripMenuItem1.Name = "editToolStripMenuItem1";
-            this.editToolStripMenuItem1.Size = new System.Drawing.Size(176, 22);
+            this.editToolStripMenuItem1.Size = new System.Drawing.Size(238, 32);
             this.editToolStripMenuItem1.Text = "Edit";
             this.editToolStripMenuItem1.Click += new System.EventHandler(this.editToolStripMenuItem1_Click);
             // 
             // deleteToolStripMenuItem
             // 
             this.deleteToolStripMenuItem.Name = "deleteToolStripMenuItem";
-            this.deleteToolStripMenuItem.Size = new System.Drawing.Size(176, 22);
+            this.deleteToolStripMenuItem.Size = new System.Drawing.Size(238, 32);
             this.deleteToolStripMenuItem.Text = "Delete";
             this.deleteToolStripMenuItem.Click += new System.EventHandler(this.deleteToolStripMenuItem_Click);
             // 
             // canceledToolStripMenuItem
             // 
             this.canceledToolStripMenuItem.Name = "canceledToolStripMenuItem";
-            this.canceledToolStripMenuItem.Size = new System.Drawing.Size(176, 22);
+            this.canceledToolStripMenuItem.Size = new System.Drawing.Size(238, 32);
             this.canceledToolStripMenuItem.Text = "Canceled";
             this.canceledToolStripMenuItem.Click += new System.EventHandler(this.canceledToolStripMenuItem_Click);
             // 
@@ -272,9 +279,10 @@
             this.btnAddNew.ForeColor = System.Drawing.Color.White;
             this.btnAddNew.Image = global::POS_System.Properties.Resources.invoice;
             this.btnAddNew.ImageSize = new System.Drawing.Size(40, 40);
-            this.btnAddNew.Location = new System.Drawing.Point(1030, 77);
+            this.btnAddNew.Location = new System.Drawing.Point(1545, 118);
+            this.btnAddNew.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnAddNew.Name = "btnAddNew";
-            this.btnAddNew.Size = new System.Drawing.Size(43, 42);
+            this.btnAddNew.Size = new System.Drawing.Size(64, 65);
             this.btnAddNew.TabIndex = 20;
             this.btnAddNew.Click += new System.EventHandler(this.btnAddNew_Click);
             // 
@@ -284,10 +292,10 @@
             this.lblPageInfo.BackColor = System.Drawing.Color.AliceBlue;
             this.lblPageInfo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
             this.lblPageInfo.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.lblPageInfo.Location = new System.Drawing.Point(529, 345);
-            this.lblPageInfo.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblPageInfo.Location = new System.Drawing.Point(794, 531);
+            this.lblPageInfo.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblPageInfo.Name = "lblPageInfo";
-            this.lblPageInfo.Size = new System.Drawing.Size(23, 15);
+            this.lblPageInfo.Size = new System.Drawing.Size(32, 22);
             this.lblPageInfo.TabIndex = 87;
             this.lblPageInfo.Text = "??";
             // 
@@ -297,10 +305,10 @@
             this.btnPrevious.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPrevious.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
             this.btnPrevious.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.btnPrevious.Location = new System.Drawing.Point(462, 337);
-            this.btnPrevious.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnPrevious.Location = new System.Drawing.Point(693, 518);
+            this.btnPrevious.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
             this.btnPrevious.Name = "btnPrevious";
-            this.btnPrevious.Size = new System.Drawing.Size(44, 30);
+            this.btnPrevious.Size = new System.Drawing.Size(66, 46);
             this.btnPrevious.TabIndex = 86;
             this.btnPrevious.Text = "<<";
             this.btnPrevious.UseVisualStyleBackColor = false;
@@ -312,10 +320,10 @@
             this.btnNext.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNext.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
             this.btnNext.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.btnNext.Location = new System.Drawing.Point(573, 337);
-            this.btnNext.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnNext.Location = new System.Drawing.Point(860, 518);
+            this.btnNext.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
             this.btnNext.Name = "btnNext";
-            this.btnNext.Size = new System.Drawing.Size(44, 30);
+            this.btnNext.Size = new System.Drawing.Size(66, 46);
             this.btnNext.TabIndex = 85;
             this.btnNext.Text = ">>";
             this.btnNext.UseVisualStyleBackColor = false;
@@ -323,10 +331,10 @@
             // 
             // FrmListInvoice
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1082, 401);
+            this.ClientSize = new System.Drawing.Size(1623, 617);
             this.Controls.Add(this.lblPageInfo);
             this.Controls.Add(this.btnPrevious);
             this.Controls.Add(this.btnNext);
@@ -339,6 +347,7 @@
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnAddNew);
             this.Controls.Add(this.dgvAllInvoice);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "FrmListInvoice";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmListInvoice";

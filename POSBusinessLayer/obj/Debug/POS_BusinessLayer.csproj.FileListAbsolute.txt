@@ -42,3 +42,14 @@ D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\obj\Debug\POS_Business
 D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\obj\Debug\POS_Busi.0B523F4D.Up2Date
 D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\obj\Debug\POSBusinessLayer.dll
 D:\User\Cours_20_C#_Level_2\POS Projects\POSBusinessLayer\obj\Debug\POSBusinessLayer.pdb
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSBusinessLayer\bin\Debug\POSBusinessLayer.dll
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSBusinessLayer\bin\Debug\POSBusinessLayer.pdb
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSBusinessLayer\bin\Debug\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSBusinessLayer\bin\Debug\POSDataAccessLayer.dll
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSBusinessLayer\bin\Debug\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSBusinessLayer\bin\Debug\POSDataAccessLayer.pdb
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSBusinessLayer\obj\Debug\POS_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSBusinessLayer\obj\Debug\POS_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSBusinessLayer\obj\Debug\POS_Busi.0B523F4D.Up2Date
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSBusinessLayer\obj\Debug\POSBusinessLayer.dll
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSBusinessLayer\obj\Debug\POSBusinessLayer.pdb

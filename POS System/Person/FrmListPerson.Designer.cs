@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
@@ -55,6 +56,7 @@
             this.lblPageInfo = new System.Windows.Forms.Label();
             this.btnPrevious = new System.Windows.Forms.Button();
             this.btnNext = new System.Windows.Forms.Button();
+            this.guna2AnimateWindow1 = new Guna.UI2.WinForms.Guna2AnimateWindow(this.components);
             this.cmPerson.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvAllPerson)).BeginInit();
             this.SuspendLayout();
@@ -431,5 +433,6 @@
         private System.Windows.Forms.Label lblPageInfo;
         private System.Windows.Forms.Button btnPrevious;
         private System.Windows.Forms.Button btnNext;
+        private Guna.UI2.WinForms.Guna2AnimateWindow guna2AnimateWindow1;
     }
 }

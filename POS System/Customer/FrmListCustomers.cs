@@ -158,7 +158,7 @@ namespace POS_System.Customer
         }
 
         private void txtFilter_TextChanged(object sender, EventArgs e)
-        {
+      {
             string CBFilter = cbFilter.Text;
             string FilterCotumn = "";
             string TextValue = txtFilter.Text.Trim();

@@ -34,3 +34,12 @@ D:\User\Cours_20_C#_Level_2\POS Projects\POSDataAccessLayer\obj\Debug\POS_DataAc
 D:\User\Cours_20_C#_Level_2\POS Projects\POSDataAccessLayer\obj\Debug\POS_Data.0118389E.Up2Date
 D:\User\Cours_20_C#_Level_2\POS Projects\POSDataAccessLayer\obj\Debug\POSDataAccessLayer.dll
 D:\User\Cours_20_C#_Level_2\POS Projects\POSDataAccessLayer\obj\Debug\POSDataAccessLayer.pdb
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSDataAccessLayer\bin\Debug\POSDataAccessLayer.dll
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSDataAccessLayer\bin\Debug\POSDataAccessLayer.pdb
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSDataAccessLayer\bin\Debug\HandlerErrorsInDebuginMode.dll
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSDataAccessLayer\bin\Debug\HandlerErrorsInDebuginMode.pdb
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSDataAccessLayer\obj\Debug\POS_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSDataAccessLayer\obj\Debug\POS_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSDataAccessLayer\obj\Debug\POS_Data.0118389E.Up2Date
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSDataAccessLayer\obj\Debug\POSDataAccessLayer.dll
+C:\Users\Alco\OneDrive\Documents\GitHub\POS_System\POS_System\POSDataAccessLayer\obj\Debug\POSDataAccessLayer.pdb

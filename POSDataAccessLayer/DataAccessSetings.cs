@@ -5,6 +5,6 @@ namespace POSDataAccessLayer
 {
     public class DataAccessSetings
     {
-        public static string ConnectionString = ConfigurationManager.ConnectionStrings["MyDBConnection"].ConnectionString;
+        public static string ConnectionString = ConfigurationManager.ConnectionStrings["connection"].ConnectionString;
     }
 }
